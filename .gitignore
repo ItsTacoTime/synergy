@@ -5,7 +5,6 @@ config.h
 *~
 \.*.swp
 *build-gui-Desktop_Qt*
-/bin
 /lib
 /build
 /CMakeFiles
